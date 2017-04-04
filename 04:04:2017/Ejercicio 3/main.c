@@ -6,7 +6,7 @@ int main(void)
 
 	cargarVectorDeInt(numeros, TAMANO_VECTOR);
 
-	quickSortAscendente(numeros, 0, TAMANO_VECTOR - 1);
+	bubbleSortAscendente(numeros, TAMANO_VECTOR);
 
 	for(i = 0; i < TAMANO_VECTOR; i++)
 	{
@@ -27,19 +27,37 @@ void cargarVectorDeInt(int vector[], int tamano)
 	}
 }
 
-void bubbleSortAscendente(int vector[], int tamano)
+void forceSortAscendente(int vector[], int tamano)
 {
 	int i, j, temp;
 
-	for(i = 0; i < TAMANO_VECTOR; i++)
+	for(i = 0; i < tamano; i++)
 	{
-		for(j = i + 1; j < TAMANO_VECTOR; j++)
+		for(j = i + 1; j < tamano; j++)
 		{
 			if(vector[i] > vector[j])
 			{
 				temp = vector[i];
 				vector[i] = vector[j];
 				vector[j] = temp;
+			}
+		}
+	}
+}
+
+void bubbleSortAscendente(int vector[], int tamano)
+{
+	int i, j, temp;
+
+	for(i = 0; i < tamano; i++)
+	{
+		for(j = 0; j < tamano - i; j++)
+		{
+			if(vector[j] > vector[j + 1])
+			{
+				temp = vector[j];
+				vector[j] = vector[j + 1];
+				vector[j + 1] = temp;
 			}
 		}
 	}
