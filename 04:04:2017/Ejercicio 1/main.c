@@ -10,6 +10,8 @@ int main(void)
 	{
 		printf("El elemento %d equivale a %d\n", (i + 1), numeros[i]);
 	}
+
+	return 0;
 }
 
 void cargarVectorDeInt(int vector[], int tamano)
