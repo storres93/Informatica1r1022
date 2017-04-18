@@ -63,6 +63,15 @@ int paresEImpares(int devolucion)
 	return retorno;
 }
 
+int paridadManual(int num)
+{
+	float resto = 0;
+
+	resto = (float)num / 2;
+
+	return (int)resto;
+}
+
 int paresEImparesV2(int devolucion)
 {
 	int continuar, aux, impares = 0, pares = 0;
