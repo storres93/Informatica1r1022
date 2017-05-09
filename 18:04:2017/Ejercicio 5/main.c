@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int operacion = 0;
+	int operacion;
 	float resultado, num1, num2;
 
 	do
@@ -47,16 +47,26 @@ int main(void)
 			printf("El promedio es %f\n", resultado);
 			break;
 		case 7: // Maximo y minimo
-			printf("Desea sacar el maximo(1) o el minimo(0)?\n");
+			printf("Ingrese 1 para sacar el maximo, ingrese 0 para sacar el minimo\n");
 			scanf("%f", &num1);
 			resultado = maximoYMinimo((int)num1);
-			printf("El resultado es %f\n\n", resultado);
+			if(num1)
+			{
+				printf("El maximo es %f\n\n", resultado);
+			} else {
+				printf("El minimo es %f\n\n", resultado);
+			}
 			break;
 		case 8: //Cantidad de pares e impares
-			printf("Desea sacar la cantidad de pares(1) o de impares(0)?");
+			printf("Desea sacar la cantidad de pares(1) o de impares(0)?\n");
 			scanf("%f", &num1);
-			resultado = (float)maximoYMinimo((int)num1);
-			printf("El resultado es %f\n\n", resultado);
+			resultado = (float)paresEImpares((int)num1);
+			if(num1)
+			{
+				printf("Hay %f numeros pares\n\n", resultado);
+			} else {
+				printf("Hay %f numeros impares\n\n", resultado);
+			}
 			break;
 
 		default:
