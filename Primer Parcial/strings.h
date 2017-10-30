@@ -1,0 +1,2 @@
+#define STRING_NULL '\0'
+#define STRING_MAX_LENGTH 33
