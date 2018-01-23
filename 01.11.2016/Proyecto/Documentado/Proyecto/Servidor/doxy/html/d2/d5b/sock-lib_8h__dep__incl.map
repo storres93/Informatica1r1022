@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/db6/dummy_8c.html" title="Archivo de prueba." alt="" coords="5,83,85,112"/>
+<area shape="rect" id="node5" href="$d1/d20/server_8c.html" title="Archivo de principal del servidor." alt="" coords="109,83,181,112"/>
+<area shape="rect" id="node7" href="$dd/d2d/sock-lib_8c.html" title="Archivo de libreria orientado a la conexion." alt="" coords="205,83,285,112"/>
+</map>

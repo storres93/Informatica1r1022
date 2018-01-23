@@ -1,0 +1,6 @@
+
+Compilar:
+make
+
+Ejecutar:
+./exe Video2.avi

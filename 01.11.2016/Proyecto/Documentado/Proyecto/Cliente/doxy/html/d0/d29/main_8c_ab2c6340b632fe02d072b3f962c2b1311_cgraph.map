@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/dcb/header_8h.html#a382b3427e53bd14a4f257a29a79e9190" title="Completa los detos del Login." alt="" coords="108,5,252,35"/>
+<area shape="rect" id="node5" href="$df/dcb/header_8h.html#a50bf09d6e80be8dfd5199bb51a3c0cab" title="Realiza el logueo y conexion al servidor." alt="" coords="108,59,252,88"/>
+<area shape="rect" id="node9" href="$df/dc8/libclient_8c.html#a0adb0878610adccd4bf31ca9e439d852" title="Recive la informacion enviada del servidor y llena las listas." alt="" coords="133,112,227,141"/>
+<area shape="rect" id="node7" href="$df/dcb/header_8h.html#a6a2d847e913c37f9d7a3ffab888a57ba" title="Se conecta al servidor." alt="" coords="311,59,388,88"/>
+<area shape="rect" id="node11" href="$df/dcb/header_8h.html#aabafc9c32f4d0213545415c18c0f5cb5" title="Carga la lista de amigos." alt="" coords="303,112,396,141"/>
+</map>

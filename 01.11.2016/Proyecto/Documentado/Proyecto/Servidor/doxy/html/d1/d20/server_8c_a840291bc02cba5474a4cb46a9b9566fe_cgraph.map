@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dd/d2d/sock-lib_8c.html#af3d553d24128ea3946c5c6271168daca" title="Se queda a la espera de una conexion." alt="" coords="123,125,251,155"/>
+<area shape="rect" id="node5" href="$db/dae/usuarios_8c.html#a232ac9a8388b1d709e8dde306c40cf8d" title="Crea la lista de usuarios." alt="" coords="129,179,244,208"/>
+<area shape="rect" id="node21" href="$db/dae/usuarios_8c.html#a0f72f4fba8e5aa25d6602242f0d606aa" title="Verifica el logueo de un usuario." alt="" coords="161,232,212,261"/>
+<area shape="rect" id="node25" href="$dd/d2d/sock-lib_8c.html#ad2ee42dcf7de359edaf2fb7dcfca4b62" title="Abre las conexiones al servidor." alt="" coords="109,285,264,315"/>
+<area shape="rect" id="node7" href="$db/dae/usuarios_8c.html#a141d26ce82ecc05cf96babbf51c9fa36" title="AÃ±ade un usuario a la lista." alt="" coords="324,72,399,101"/>
+<area shape="rect" id="node15" href="$db/dae/usuarios_8c.html#a77162d691b7bfa3f7352235ba3ec7985" title="Crea la lista de amigos de cada usuario." alt="" coords="315,152,408,181"/>
+<area shape="rect" id="node19" href="$db/dae/usuarios_8c.html#a5f5b24e51f4f0edf9f68c5bc5cb0aea8" title="Muestra los amigos de cada usuario." alt="" coords="312,205,411,235"/>
+<area shape="rect" id="node9" href="$db/dae/usuarios_8c.html#a070006f35e43fd15675e52ae9e98a282" title="Consigue un CID que no este en uso." alt="" coords="464,5,528,35"/>
+<area shape="rect" id="node11" href="$db/dae/usuarios_8c.html#ae65697cc50dcd9c2a4e3b8091c9e11e7" title="Agrega a la lista de usuarios un nuevo nodo." alt="" coords="469,59,523,88"/>
+<area shape="rect" id="node13" href="$db/dae/usuarios_8c.html#acb09b4dd182d4baa4ff5692527a77300" title="Agrega a la lista &quot;Friends&quot; un nuevo nodo." alt="" coords="467,112,525,141"/>
+<area shape="rect" id="node17" href="$db/dae/usuarios_8c.html#a47420dffc9fbc4bfc0a729a76f0cf476" title="Devuelve la estructura del usuario deseado." alt="" coords="460,165,532,195"/>
+<area shape="rect" id="node23" href="$db/dae/usuarios_8c.html#ae347b9a813d85de0a093890ac0377c0d" title="Verifica un usuario y contraseÃ±a." alt="" coords="321,259,401,288"/>
+</map>

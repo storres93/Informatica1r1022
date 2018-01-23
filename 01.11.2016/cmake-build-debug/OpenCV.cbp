@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OpenCV"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showImage">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/showImage" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 showImage"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showImage/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/showImage" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 showImage/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="borderDetection">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/borderDetection" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 borderDetection"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="borderDetection/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/borderDetection" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 borderDetection/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="openCamera">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/openCamera" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 openCamera"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="openCamera/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/openCamera" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 openCamera/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eyeDetection">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/eyeDetection" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 eyeDetection"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eyeDetection/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/eyeDetection" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 eyeDetection/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="createButton">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/createButton" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 createButton"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="createButton/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/createButton" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 createButton/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="createTextInput">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/createTextInput" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 createTextInput"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="createTextInput/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/createTextInput" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/opencv/2.4.13.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 createTextInput/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/AbrirCamara/main1.c">
+			<Option target="openCamera"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/CrearBoton/main.c">
+			<Option target="createButton"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/CrearCampoDeTexto/main.c">
+			<Option target="createTextInput"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/DeteccionBordes/main.c">
+			<Option target="borderDetection"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/DeteccionOjos/Pruebas.cpp">
+			<Option target="eyeDetection"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/MostrarImagen/main.c">
+			<Option target="showImage"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

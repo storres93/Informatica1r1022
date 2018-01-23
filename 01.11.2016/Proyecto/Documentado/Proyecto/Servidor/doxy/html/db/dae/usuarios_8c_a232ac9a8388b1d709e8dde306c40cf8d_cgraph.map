@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dae/usuarios_8c.html#a141d26ce82ecc05cf96babbf51c9fa36" title="AÃ±ade un usuario a la lista." alt="" coords="180,85,255,115"/>
+<area shape="rect" id="node11" href="$db/dae/usuarios_8c.html#a77162d691b7bfa3f7352235ba3ec7985" title="Crea la lista de amigos de cada usuario." alt="" coords="171,152,264,181"/>
+<area shape="rect" id="node15" href="$db/dae/usuarios_8c.html#a5f5b24e51f4f0edf9f68c5bc5cb0aea8" title="Muestra los amigos de cada usuario." alt="" coords="168,205,267,235"/>
+<area shape="rect" id="node5" href="$db/dae/usuarios_8c.html#a070006f35e43fd15675e52ae9e98a282" title="Consigue un CID que no este en uso." alt="" coords="320,5,384,35"/>
+<area shape="rect" id="node7" href="$db/dae/usuarios_8c.html#ae65697cc50dcd9c2a4e3b8091c9e11e7" title="Agrega a la lista de usuarios un nuevo nodo." alt="" coords="325,59,379,88"/>
+<area shape="rect" id="node9" href="$db/dae/usuarios_8c.html#acb09b4dd182d4baa4ff5692527a77300" title="Agrega a la lista &quot;Friends&quot; un nuevo nodo." alt="" coords="323,112,381,141"/>
+<area shape="rect" id="node13" href="$db/dae/usuarios_8c.html#a47420dffc9fbc4bfc0a729a76f0cf476" title="Devuelve la estructura del usuario deseado." alt="" coords="316,165,388,195"/>
+</map>

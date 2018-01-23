@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="01_11_2016"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_11_2016">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/01_11_2016" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_11_2016"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_11_2016/fast">
+				<Option output="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/01_11_2016" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_11_2016/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/AbrirCamara/main1.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/CrearBoton/main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/CrearCampoDeTexto/main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/DeteccionBordes/main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/DeteccionOjos/Pruebas.cpp">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/MostrarImagen/main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Cliente/header.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Cliente/libclient.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Cliente/main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Cliente/header.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Cliente/libclient.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Cliente/main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Servidor/dummy.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Servidor/server.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Servidor/sock-lib.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Servidor/sock-lib.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Servidor/usuarios.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Documentado/Proyecto/Servidor/usuarios.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Servidor/dummy.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Servidor/server.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Servidor/sock-lib.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Servidor/sock-lib.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Servidor/usuarios.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/Proyecto/Servidor/usuarios.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Analisis1Linea.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/AnalisisFilas.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Corroborar_Linea.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/CropImage.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Filtro_Lineas.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Header.h">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/ImagesAndLines.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Lineas_Xvalues.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Main.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/PrintLines.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/roadlinedetection/Validar_Lineas.c">
+			<Option target="01_11_2016"/>
+		</Unit>
+		<Unit filename="/Users/storres/Documents/Info1/2016/01.11.2016/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

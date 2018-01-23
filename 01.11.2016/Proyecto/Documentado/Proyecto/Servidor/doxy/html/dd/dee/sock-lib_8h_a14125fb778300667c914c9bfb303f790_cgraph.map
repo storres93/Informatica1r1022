@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dae/usuarios_8c.html#a13e87c83726c282ee24cef2839df2472" title="Devuelve el socket del cliente CID." alt="" coords="383,98,468,128"/>
+<area shape="rect" id="node5" href="$dd/d2d/sock-lib_8c.html#ad3f88e0d8fa0b464d8740bb6328b0910" title="Manda toda la lista de amigos del cliente." alt="" coords="152,45,317,74"/>
+<area shape="rect" id="node8" href="$dd/d2d/sock-lib_8c.html#a9c7a1fdcf9aa4114cc05297716fcacf7" title="Avisa de la conexion de un cliente." alt="" coords="145,98,324,128"/>
+<area shape="rect" id="node11" href="$dd/d2d/sock-lib_8c.html#afdb09e2e36f5babae111d6a26db7d946" title="Avisa de la desconexion de un cliente." alt="" coords="137,152,332,181"/>
+<area shape="rect" id="node14" href="$dd/d2d/sock-lib_8c.html#aec0cd5ad0863077f4e3b4b6d0bd34940" title="Manda un mensaje." alt="" coords="156,205,313,234"/>
+<area shape="rect" id="node17" href="$dd/d2d/sock-lib_8c.html#a5f2ce9db067ba1f9c74cde5e5197ca3b" title="Manda toda la informacion del cliente." alt="" coords="181,258,288,288"/>
+<area shape="rect" id="node19" href="$db/dae/usuarios_8c.html#a445727c8fe11cfc7e0eee52cd25afae8" title="Pone en el valor especificado el socket correspondiente." alt="" coords="192,312,277,341"/>
+</map>

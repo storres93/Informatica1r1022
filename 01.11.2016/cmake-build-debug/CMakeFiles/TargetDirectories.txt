@@ -1,0 +1,8 @@
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/showImage.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/borderDetection.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/openCamera.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/eyeDetection.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/createButton.dir
+/Users/storres/Documents/Info1/2016/01.11.2016/cmake-build-debug/CMakeFiles/createTextInput.dir
